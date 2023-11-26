@@ -1,0 +1,65 @@
+/* Body background color */
+body.cream-theme {
+    background: #f7f3eb; 
+    color: #4e4e4e;
+}
+
+/* Header background color */
+header {
+    background-color: #f7f3eb; 
+}
+
+/* Navigation background color */
+nav {
+    background-color: #f7f3eb; 
+}
+
+/* Section Beranda background color */
+#beranda {
+    background-color: #f3ecd8; 
+}
+
+/* Section Portofolio background color */
+#portofolio {
+    background-color: #fff; 
+}
+
+/* Section Kontak background color */
+#kontak {
+    background-color: #fff; 
+}
+
+/* Text color for body */
+body, h1, h2 {
+    color: #4e4e4e; 
+}
+
+/* Text color for paragraphs */
+p {
+    color: #6c6c6c; 
+}
+
+/* Text color for navigation links */
+.navbar-nav .nav-link {
+    color: #4e4e4e; 
+}
+
+/* Hover color for navigation links */
+.navbar-nav .nav-link:hover {
+    color: #6c6c6c; 
+}
+
+/* CSS for Portofolio and Kontak sections */
+#portofolio h2, #portofolio h5 {
+    color: #4e4e4e; 
+}
+
+#portofolio p, #kontak h2, #kontak p {
+    color: #4e4e4e; 
+}
+
+/* CSS for Portofolio Carousel Images */
+#portofolio .carousel-inner img {
+    max-width: 30%; 
+    height: auto; 
+}
